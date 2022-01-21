@@ -7,5 +7,12 @@ void WorkClass::startWork() {
     
 
     static_cast<GoodBasic*>(universalPointer01)->toString();
+<<<<<<< Updated upstream
     
+=======
+    Freezer freezer;
+    freezer.toString();
+    Software software;
+    software.toString();
+>>>>>>> Stashed changes
 }
