@@ -20,5 +20,5 @@ int Software::getComputersQuantity() {
     return _computersQuantity;
 }
 
-void Software::toString() {
+void Software::toString() {}
     //
