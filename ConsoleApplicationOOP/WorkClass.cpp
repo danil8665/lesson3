@@ -7,5 +7,6 @@ void WorkClass::startWork() {
     
 
     static_cast<GoodBasic*>(universalPointer01)->toString();
-    
+    Freezer freezer;
+    freezer.toString();
 }
