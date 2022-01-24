@@ -5,7 +5,6 @@ void WorkClass::startWork() {
 
     GoodBasic* universalPointer01 = new Chipsi;
 
-
     static_cast<GoodBasic*>(universalPointer01)->toString();
 
     Freezer freezer;
